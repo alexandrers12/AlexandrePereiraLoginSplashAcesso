@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel bank Digital</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="acessar">Acessar</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+</resources>
